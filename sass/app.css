@@ -1836,7 +1836,7 @@ a.btn {
 }
 
 .details__preview_color {
-  background: #FFBDBD;
+  margin-top: -24px;
 }
 
 .details__preview_color .details__img {
